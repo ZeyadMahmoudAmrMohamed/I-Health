@@ -1,0 +1,41 @@
+
+body{
+    margin:0px;
+    padding:0px;
+    background-color: #F1F6F9;
+}
+nav{
+    background-color: #0B2447;
+}
+ul,li{
+    display: inline-block;
+}
+ul{
+    width:100%;
+}
+#logo{
+    width:40px;
+    height:40px;
+    padding-left: 10px;
+    padding-top:10px;
+    position: absolute;
+}
+li{
+    position:relative;
+    left: 55%;
+    font-size: 25px;
+}
+li>a{
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+}
+li>a:hover{
+    color:black;
+    background-color: #9BA4B5;
+}
+.homepage{
+   margin-left:10px;
+}
+
+

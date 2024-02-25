@@ -1,0 +1,80 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 24, 2023, 10:35:21 PM
+    Author     : ali_shar
+*/
+
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 24, 2023, 10:11:51 PM
+    Author     : ali_shar
+*/
+
+body{
+    margin:0px;
+    padding:0px;
+    background-color: #F1F6F9;
+}
+nav{
+    background-color: #0B2447;
+}
+ul,li{
+    display: inline-block;
+}
+ul{
+    width:100%;
+}
+#logo{
+    width:40px;
+    height:40px;
+    padding-left: 10px;
+    padding-top:10px;
+    position: absolute;
+}
+li{
+    position:relative;
+    left: 55%;
+    font-size: 25px;
+}
+li>a{
+    color:white;
+    text-decoration: none;
+    padding: 10px;
+}
+li>a:hover{
+    color:black;
+    background-color: #9BA4B5;
+}
+.homepage{
+   margin-left:10px;
+}
+nav#credit{
+    height: 10px;
+}
+th{
+    padding: 25px;
+}
+td{
+    padding: 25px;
+}
+table{
+    margin: 10% auto;
+
+    border: solid 2px black;
+    border-collapse: collapse !important;
+    background-color: white;
+}
+.first{
+    background-color: #0B2447;
+    color: white;
+}
+#credit{
+    background-color: black;
+}
+
